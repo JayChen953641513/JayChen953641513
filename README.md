@@ -1,4 +1,4 @@
-<p align="left"><img align="center" width="30%" src="./assets/signature.png" /></p>
+<p align="left"><img align="center" width="50%" src="./assets/signature.png" /></p>
 
 ### Hi guys, I am JayChen 
 
