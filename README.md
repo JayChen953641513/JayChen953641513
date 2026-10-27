@@ -1,9 +1,8 @@
 <p align="left"><img align="center" width="50%" src="./assets/signature.png" /></p>
 
-## Hi guys, I am JayChen 
-
-> A Front-End Engineer from **GuangDong, China**.
-
+# Hi, I'm JayChen
+> A Front-End Engineer from Guangdong, China.
+> Focus on frontend & AI-full-stack development, enjoy building things and sharing tech notes.
 
 
 ### ✨ skill:
@@ -16,5 +15,7 @@
 </div>
 
 
-### 📃 Resume:
-waiting update......
+### 📄 Resume
+To be updated
+
+> Code is not just work, it's a way to create.
