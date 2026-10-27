@@ -1,12 +1,12 @@
 <p align="left"><img align="center" width="50%" src="./assets/signature.png" /></p>
 
-### Hi guys, I am JayChen 
+## Hi guys, I am JayChen 
 
 > A Front-End Engineer from **GuangDong, China**.
 
 
 
-#### ✨ skill:
+### ✨ skill:
 <div align="left">
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e?logo=vuedotjs"/></code>
 <code><img src="https://img.shields.io/badge/react-%2320232a?logo=react"/></code>
@@ -16,5 +16,5 @@
 </div>
 
 
-#### 📌 Resume:
+### 📃 Resume:
 waiting update......
