@@ -2,6 +2,7 @@
 
 # Hi, I'm JayChen
 > A Front-End Engineer from Guangdong, China.
+
 > Focus on frontend & AI-full-stack development, enjoy building things and sharing tech notes.
 
 
