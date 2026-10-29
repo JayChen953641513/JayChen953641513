@@ -6,7 +6,7 @@
 > Focus on ***frontend*** & ***AI-full-stack*** development, enjoy building things and sharing tech notes.
 
 
-## ✨ skill:
+## ✨ Skills:
 <div align="left">
 <code><img src="https://img.shields.io/badge/vuejs-%2335495e?logo=vuedotjs"/></code>
 <code><img src="https://img.shields.io/badge/react-%2320232a?logo=react"/></code>
@@ -17,6 +17,6 @@
 
 
 ## 📄 Resume
-*To be updated*
+[www.jaychen.net.cn/resume.html](https://www.jaychen.net.cn/resume.html)
 
 > *Code is not just work, it's a way to create.*
